@@ -7,4 +7,4 @@
 - 📫 How to reach me: [Please message me via LinkedIn!](https://www.linkedin.com/in/samuel-horishin-yeo/)
 
 ### Spotify Playing Now
-[![Spotify](https://sk-sam.vercel.app/api/spotify)](https://open.spotify.com/user/sk-sam)
+[![Spotify](https://sk-sam.vercel.app/api/spotify)]
