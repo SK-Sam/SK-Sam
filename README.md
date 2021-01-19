@@ -7,4 +7,4 @@
 - 📫 How to reach me: [Please message me via LinkedIn!](https://www.linkedin.com/in/samuel-horishin-yeo/)
 
 ### Spotify Playing Now
-[<img src="https://<novatorem.sk-sam.vercel.app>/api/spotify-playing" alt="Spotify Now Playing" width="350" />]
+[![Spotify](https://sk-sam.vercel.app/api/spotify)](https://open.spotify.com/user/sk-sam)
