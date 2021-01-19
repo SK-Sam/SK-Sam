@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-**SK-Sam/SK-Sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a personal project with two friends, [a user-focused coffee site](https://fierce-spire-33970.herokuapp.com/)
 - 🌱 I’m currently learning C++, Ruby, Ruby on Rails, SQL
 - 👯 I’m looking to collaborate on any interesting web apps
