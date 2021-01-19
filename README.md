@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on any interesting web apps
 - 💬 Ask me about Coffee & Watches!
 - 📫 How to reach me: [Please message me via LinkedIn!](https://www.linkedin.com/in/samuel-horishin-yeo/)
-
+[![Spotify](https://sk-sam.vercel.app/api/spotify)](https://open.spotify.com/user/sk-sam)
