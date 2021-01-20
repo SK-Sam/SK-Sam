@@ -6,5 +6,5 @@
 - 💬 Ask me about Coffee & Watches!
 - 📫 How to reach me: [Please message me via LinkedIn!](https://www.linkedin.com/in/samuel-horishin-yeo/)
 
-
+## Currently Listening To: 
 [![Spotify](https://novatorem-gr49jdq44.vercel.app/api/spotify.py)]
