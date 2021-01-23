@@ -10,6 +10,9 @@
 [![Spotify](https://novatorem-gr49jdq44.vercel.app/api/spotify.py)](https://open.spotify.com/user/sk-sam)
 
 ## My Github Stats
+
+---
+
 <a href="https://github.com/sk-sam">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-sam&hide=CMAKE,HTML&&theme=tokyonight" />
 </a>
