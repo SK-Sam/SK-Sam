@@ -6,7 +6,13 @@
 - 💬 Ask me about Coffee & Watches!
 - 📫 How to reach me: [Please message me via LinkedIn!](https://www.linkedin.com/in/samuel-horishin-yeo/)
 
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=sk-sam)]
+<a href="https://github.com/sk-sam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-sam&hide=CMAKE,HTML&&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/sk-sam"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sk-sam&show_icons=true&theme=tokyonight" alt="sk-sam" />
+</a>
 
 ## Currently Listening To: 
 [![Spotify](https://novatorem-gr49jdq44.vercel.app/api/spotify.py)](https://open.spotify.com/user/sk-sam)
