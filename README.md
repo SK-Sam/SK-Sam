@@ -13,10 +13,10 @@
 ## My Github Stats
 
 <a href="https://github.com/sk-sam"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sk-sam&show_icons=true&theme=tokyonight" alt="sk-sam" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sk-sam&show_icons=true&theme=tokyonight" alt="sk-sam" height="140" />
 </a>
 <a href="https://github.com/sk-sam">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-sam&hide=CMAKE,HTML&&theme=tokyonight" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-sam&hide=CMAKE,HTML&&theme=tokyonight" height="140" />
 </a>
 
 
